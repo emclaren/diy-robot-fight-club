@@ -1,0 +1,23 @@
+{
+  "name": "diy-robot-fight-club",
+  "version": "1.0.0",
+  "description": "DIY ROBOT FIGHT CLUB",
+  "main": "blink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emclaren/diy-robot-fight-club.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emclaren/diy-robot-fight-club/issues"
+  },
+  "homepage": "https://github.com/emclaren/diy-robot-fight-club#readme",
+  "dependencies": {
+    "johnny-five": "^1.2.0",
+    "keypress": "^0.2.1"
+  }
+}
