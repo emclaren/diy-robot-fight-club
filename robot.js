@@ -27,20 +27,20 @@ board.on("ready", function() {
       process.exit();
     } else if (key.name === "up") {
       console.log("Forward");
-      servoRight.ccw(speed);
-      servoLeft.cw(speed);
+      servoRight.ccw(speed); // CCW is short for Counter Clockwise
+      servoLeft.cw(speed); // CW is short for Clockwise
     } else if (key.name === "down") {
       console.log("Backward");
       servoRight.cw(speed);
       servoLeft.ccw(speed);
     } else if (key.name === "left") {
-        console.log("Left");
-        servoRight.ccw(speed);
-        servoLeft.ccw(speed);
+      console.log("Left");
+      servoRight.ccw(speed);
+      servoLeft.ccw(speed);
     } else if (key.name === "right") {
-        console.log("Right");
-        servoRight.cw(speed);
-        servoLeft.cw(speed);
+      console.log("Right");
+      servoRight.cw(speed);
+      servoLeft.cw(speed);
     } else if (key.name === "space") {
       console.log("Stopping");
       servoRight.stop();
