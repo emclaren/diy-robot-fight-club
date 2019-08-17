@@ -38,8 +38,8 @@ CTRL + C
 
 ## Make The Robot
 Connect the Hardware
-![Wiring for Servo](images/Wiring-Example2.png)
-![Wiring for Arduino](images/Wiring-Example1.png)
+![Wiring for Servo](images/Wiring-Example2.jpg)
+![Wiring for Arduino](images/Wiring-Example1.jpg)
 
 Plug in the board and run
 `node robot.js`
