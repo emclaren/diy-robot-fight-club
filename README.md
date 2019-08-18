@@ -4,6 +4,8 @@ Code to accompany Write/Speak/Code 2019 workshop: DIY Robot Fight Club, develope
 
 Based on the Simplebot example by Rick Waldron in [Make: JavaScript Robotics](https://github.com/rwaldron/javascript-robotics)
 
+Thank you to [SauceLabs](https://twitter.com/saucelabs) for sponsoring the hardware used for this workshop.
+
 ![Example Bot](images/Robot-Example.jpg)
 
 
